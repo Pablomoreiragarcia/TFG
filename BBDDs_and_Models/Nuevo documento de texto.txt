@@ -1,0 +1,35 @@
+Hola a ambos, os pongo las bases de datos del ultimo trabajo que colaboramos con francisco, 
+donde están la forma de sacar los modelos y los datos de partida, 
+los modelos se pueden cargar en weka y ejecutarlos. 
+Pero podemos hacernos una idea de los procesos que el hace para sacarlos.
+
+
+Buenas tardes Jose Miguel,
+Aquí te adjunto mis 4 mejores modelos que he obtenido junto con sus esquemas. 
+Pongo 4 y no 1 porque quiero comentar contigo la selección final del mejor.
+
+ 
+
+También te adjunto la base de datos global (todas las variables e instancias).
+Finalmente, sabes que he aplicado 2 estrategias de selección de variables diferentes 
+(CfsSubsetEval [modelos 1 y 2], e InfoGain I [modelo 3] e InfoGain II [modelo 4]), 
+por tanto te adjunto las diferentes bases de datos con las variables seleccionadas 
+en cada caso. 
+
+ 
+
+Cuando quieras quedamos y hacemos lo que hablamos. 
+Estaría genial que fuese antes de vacaciones de navidad, 
+así durante las mismas me dedico a escribir el artículo.
+
+ 
+
+Muchas gracias
+
+ 
+
+Buen fin de semana
+
+ 
+
+Un saludo
